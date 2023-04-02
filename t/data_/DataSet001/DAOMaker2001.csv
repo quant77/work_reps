@@ -1,0 +1,2 @@
+Transaction ID,Transaction Time,Sender ID,Receiver ID,Amount,Currency,Currency Hash,Currency Type,Amount [USD],Receiver Type,Label
+0x4c273c2403aafd97e4b553f0e381cf1c63e5f2efebbe2ded7642a06f2b68c879,2021-09-03 22:38:25 +0000,0xd6c8dd834abeeefa7a663c1265ce840ca457b1ec,0x2708cace7b42302af26f1ab896111d87faeff92f,2500000,CPD,0x9b31bb425d8263fa1b8b9d090b83cf0c31665355,ERC20,330983.00317678903,Wallet,1
