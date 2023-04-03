@@ -1,0 +1,168 @@
+File Names,Sender ID,Exploit Types,train/test splits,Minimum Date
+0xhabitat001,0xc97f82c80df57c34e84491c0eda050ba924d7429,Phishing,Train,3/17/2021 12:11
+Abracadabra001,0xf5bce5077908a1b7370b9ae04adc565ebd643966,Price Manupilation,Test,11/30/2021 11:47
+Agora001,0xdef1c0ded9bec7f1a1670819833240f027b25eff,Flash Loan Attack,Train,04/06/2022 04:17
+Agora002,0x2796317b0ff8538f253012862c06787adfb8ceb6,Flash Loan Attack,Train,03/01/2022 21:58
+Akropolis001,0x7967ada2a32a633d5c055e2e075a83023b632b4e,Flash Loan Attack,Train,8/21/2020 11:23
+AnySwap001,0xbbc4a8d076f4b1888fec42581b6fc58d242cf2d5,Access Control,Train,6/29/2021 3:09
+AnySwap002,0x7ea2be2df7ba6e54b1a9c70676f668455e329d29,Access Control,Train,07/01/2021 09:51
+Armor001,0x9f7ffe5ad07cb7b8db199e16a0617beadc116de9,Phishing,Test,2/28/2021 0:20
+AscendEX001,0x986a2fca9eda0e06fbf7839b89bfc006ee2a23dd,Access Control,Validation,12/01/2021 00:18
+Audius,0x4deca517d6817b6510798b7328f2314d3003abac,Access Control,Train,05/07/2021 23:33
+Bacon_Protocol001,0xb8919522331c59f5c16bdfaa6a121a6e03a91f62,Flash Loan Attack,Test,7/29/2021 18:00
+BalancerLabs001,0x0e511aa1a137aad267dfe3a6bfca0b856c1a3682,Flash Loan Attack,Train,5/29/2020 13:24
+Bancor001,0x009bb5e9fcf28e5e601b7d0e9e821da6365d0a9c,Access Control,Train,06/10/2017 14:27
+BasketDAO001,0x1f316c385a5249c83f48061de45e691acdc98f06,Access Control,Train,07/11/2021 21:10
+BentFinance001,0x270b6aff561284ef380cdd6d8b036f4981049a86,Access Control,Validation,11/19/2021 10:10
+BiFinance001,0x13000c4a215efe7e414bb329b2f11c39bcf92d78,Access Control,Train,01/07/2021 04:08
+Bilaxy001,0xcce8d59affdd93be338fc77fa0a298c2cb65da59,Access Control,Train,4/28/2021 4:49
+Bitmart001,0x68b22215ff74e3606bd5e6c1de8c2d68180c85f7,Access Control,Train,11/21/2021 19:18
+Bo_Shen001,0x6be85603322df6dc66163ef5f82a9c6ffbc5e894,Access Control,Test,11/30/2016 12:41
+Brahma_Finance001,0xa19789f57d0e0225a82eeff0fecb9f3776f276a3,Access Control,Validation,09/11/2021 17:58
+Brahma_Finance002,0x140713bbd82113e104c3a45661134f9764807922,Access Control,Validation,3/27/2021 9:37
+Brahma_Finance003,0x392472c4369d6cdea89e2bddfd8144eecfdc032c,Access Control,Validation,07/12/2022 11:50
+BrincFinance001,0x7bff1fc001054c4ffff4e9117415112e07212a4e,Access Control,Validation,11/30/2021 4:19
+bZx001,0x40ec5b33f54e0e8a33a975908c5ba1c14e5bbbdf,Access Control,Validation,9/22/2021 0:34
+CashioApp001,0xdef171fe48cf0115b1d80b88dc8eab59176fee57,Access Control,Test,03/10/2022 02:59
+ChainSwap001,0xf3b3a0d6bcc6c0af929e1cbff56200a992a969e3,Access Control,Train,3/18/2021 14:45
+ChainSwap002,0xb1280589dbac3e7ce111bf4a7fb9c71a30213f7e,Access Control,Train,05/12/2021 10:49
+ChainSwap006,0x22439be3aebc1590b05e3243780ed4156b629604,Access Control,Train,06/02/2021 16:40
+Coinbene001,0x9539e0b14021a43cde41d9d45dc34969be9c7cb0,Access Control,Train,3/13/2019 13:04
+Coinbene002,0xb3df999c5dc026dea265aeb02b8519844c9b6d5e,Access Control,Train,3/25/2019 23:59
+Coinrail001,0x80a909968642f7f90686ff964e71154a00ce6e49,Access Control,Train,10/11/2017 04:59
+CoinSWOP001,0x3add35896899e7f95158d8aad6e86e0dd13f415d,Rug pull,Train,12/03/2020 21:27
+CompounderFinance001,0x87654f58faff71f04291b293e4af2d52dcbe7f15,Rug pull,Train,11/23/2020 6:05
+CompounderFinance004,0x478c070341265d5fc563512ad7c9c6481a4a3a24,Rug pull,Train,11/21/2020 22:40
+CompounderFinance005,0x785038e55c3c77256bdc9a03535fd3e8d948a116,Rug pull,Train,12/01/2020 07:36
+CompounderFinance006,0xe693e36cf773f4a47eb03d46666ee5116e04afd5,Rug pull,Train,11/14/2020 2:37
+CompounderFinance007,0x6a14fdcbf6fec2f7221b54536279932582f9964c,Rug pull,Train,11/23/2020 6:05
+CompounderFinance008,0x5dbcf33d8c2e976c6b560249878e6f1491bca25c,Rug pull,Train,7/30/2020 6:54
+Cream_Finance001,0x228619cca194fbe3ebeb2f835ec1ea5080dafbb2,Flash Loan Attack,Train,02/05/2021 23:31
+Cream_Finance002,0xeff039c3c1d668f408d09dd7b63008622a77532c,Flash Loan Attack,Train,10/19/2020 16:47
+Cream_Finance003,0x299e254a8a165bbeb76d9d69305013329eea3a3b,Flash Loan Attack,Train,3/22/2021 11:03
+Cream_Finance004,0x8379baa817c5c5ab929b03ee8e3c48e45018ae41,Flash Loan Attack,Train,3/20/2021 7:57
+Cream_Finance005,0x2a537fa9ffaea8c1a41d3c2b68a9cb791529366d,Flash Loan Attack,Train,11/04/2020 12:24
+Cream_Finance006,0xe89a6d0509faf730bd707bf868d9a2a744a363c7,Flash Loan Attack,Train,9/17/2020 4:39
+Cream_Finance007,0x44fbebd2f576670a6c33f6fc0b00aa8c5753b322,Flash Loan Attack,Train,08/02/2020 16:22
+Cream_Finance008,0x8c3b7a4320ba70f8239f83770c4015b5bc4e6f91,Flash Loan Attack,Train,08/03/2021 18:30
+Cream_Finance009,0x797aab1ce7c01eb727ab980762ba88e7133d2157,Flash Loan Attack,Train,08/02/2020 16:21
+Cream_Finance010,0x523effc8bfefc2948211a05a905f761cba5e8e9e,Flash Loan Attack,Train,06/02/2021 08:47
+Cream_Finance011,0x10fdbd1e48ee2fd9336a482d746138ae19e649db,Flash Loan Attack,Train,09/01/2020 17:13
+Cream_Finance012,0x4112a717edd051f77d834a6703a1ef5e3d73387f,Flash Loan Attack,Train,09/08/2021 22:42
+Cream_Finance013,0xfd609a03b393f1a1cfcacedabf068cad09a924e2,Flash Loan Attack,Train,11/25/2020 16:56
+Cream_Finance014,0x228619cca194fbe3ebeb2f835ec1ea5080dafbb2,Flash Loan Attack,Train,02/05/2021 23:31
+Cryptopia001,0x2984581ece53a4390d1f568673cf693139c97049,Access Control,Train,10/20/2018 18:01
+Cryptopia002,0x5baeac0a0417a05733884852aa068b706967e790,Access Control,Train,11/15/2018 21:31
+Curve_Finance001,0xbf87bfcaf948c853cb4edbf07cb8dab80319fc5e,Phishing,Validation,10/10/2019 22:08
+Curve_Finance002,0x1a2a910185467dab98c3c04eee38ac6dbbc3b0d5,Phishing,Validation,6/16/2022 8:39
+Curve_Finance003,0xb97f255b37eef7d47dbe1debbecd1f2ecfc37abe,Phishing,Validation,09/01/2021 05:20
+Curve_Finance004,0x056fc75753bd75ea28b5966c4bea29f4ad49321c,Phishing,Validation,4/15/2022 19:29
+Curve_Finance005,0xb30ca7383dbd1ac31459e8e1de3bcb022a1db001,Phishing,Validation,10/24/2020 18:07
+DaoMaker2001,0xdd571023d95ff6ce5716bf112ccb752e86212167,Access Control,Validation,08/03/2021 12:02
+DAOMaker2003,0xa43b89d5e7951d410585360f6808133e8b919289,Access Control,Validation,4/28/2021 12:42
+DAOMaker2004,0x6e70c88be1d5c2a4c0c8205764d01abe6a3d2e22,Access Control,Validation,07/01/2021 13:02
+DEGO001,0x20fe4b1ed95911487499e53355bb8f14a881d735,Access Control,Train,09/10/2020 18:30
+Dfx001,0x46161158b1947d9149e066d6d31af1283b2d377c,Re-Entrancy,Test,10/17/2022 3:27
+DistX001,0xc6b88e8284a405bf277fd7710b5fd7582ed821fa,Rug pull,Train,8/28/2020 23:58
+DragonEx001,0x0b078896a3d9166da5c37ae52a5809aca48630d4,Rug pull,Train,06/05/2018 09:02
+dxHub001,0xeab3552a3d1596aff52238a8ae91fd0978dcc511,Rug pull,Train,12/06/2020 04:28
+Eterbase001,0x8d76166c22658a144c0211d87abf152e6a2d9d95,Access Control,Train,4/19/2020 0:29
+EthereumYiled001,0x28a34597dd445192c0c53bee5d4f9e16c3553203,Rug pull,Train,11/22/2020 16:52
+EthereumYiled002,0x052cd7423b54d18c97847c0b5c73abcb8cf6bf5b,Rug pull,Train,12/08/2020 17:31
+EXMO001,0x1fd6267f0d86f62d88172b998390afee2a1f54b6,Access Control,Train,3/22/2020 21:31
+FakeAVA Token Sale001,0xaacb6c756f623839c6db5202d5eeec21417e01cc,Phishing,Train,5/31/2017 17:22
+FakeDfinityTokenSale001,0x4fa03aefa74559aafc6e26fad2bc801006c6c5ab,Phishing,Train,5/16/2019 16:29
+FakeHack137001,0x022026b542a9aa18aae7d61c54a4c17e448fda6b,Phishing,Train,08/03/2016 10:46
+FakeHeroTokenSale001,0x3d51bbefcce4ecbc5472b601ca9e99a3ae9bc93a,Phishing,Train,8/18/2017 2:26
+FakeHeroTokenSale002,0x8da0a15786008f543a760701e2021f992e1c1cc5,Phishing,Train,8/15/2017 16:56
+FakeHeroTokenSale003,0xd648b0d5f8fc7920ac78e5ef214e56f88c30576f,Phishing,Train,6/16/2017 16:48
+FakeHeroTokenSale004,0x761084ffd1c929a31fee582a6d02c4f31494fb17,Phishing,Train,7/27/2017 13:12
+FakeHeroTokenSale005,0x6e9f3b618f240240d359435747bb37729442b152,Phishing,Train,5/29/2017 21:59
+FakeHeroTokenSale006,0x951b3329273d6c8c8803af62d5be5a99990a820a,Phishing,Train,06/01/2017 13:29
+FakePhishing2753001,0x267be1c1d684f78cb4f6a176c4911b741e4ffdc0,Phishing,Train,01/02/2019 19:20
+FakePhishing3187001,0xc873cbe6b1359e8a1e66b81d2e9e0932d24690f3,Phishing,Train,04/07/2021 20:49
+FakePhishing4287001,0x1798711464b6e8a8081a22f4ac422bcc33d9e304,Phishing,Train,9/20/2019 20:02
+FakePhishing697001,0x51c3f1f6978207ccf565ea497e13fa8d7f413faf,Phishing,Train,12/31/2017 23:13
+Focus001,0xb2a9f1256137bcb5ba071c645571392ccbfcd286,Rug pull,Validation,12/28/2020 22:05
+HarmonyBridge001,0x2dccdb493827e15a5dc8f8b72147e6c4a5620857,Access Control,Train,10/14/2020 15:20
+HarmonyBridge002,0xfd53b1b4af84d59b20bf2c20ca89a6beeaa2c628,Access Control,Train,10/13/2020 21:36
+HarmonyBridge003,0xf9fb1c508ff49f78b60d3a96dea99fa5d7f3a8a6,Access Control,Train,1/19/2021 20:38
+HarvestFinance001,0x053c80ea73dc6941f518a68e2fc52ac45bde7c9c,Flash Loan Attack,Validation,10/20/2020 15:04
+Holy001,0x7aece271b7e9604934404266fd7bd48a9b57e74c,Rug pull,Validation,12/17/2020 20:38
+IndexFinance001,0xfa6de2697d59e88ed7fc4dfe5a33dac43565ea41,Flash Loan Attack,Validation,12/06/2020 11:57
+Jay001,0xf2919d1d80aff2940274014bef534f7791906ff2,Re-Entrancy,Train,7/19/2022 23:00
+Kucoin001,0x2b5634c42055806a59e9107ed44d43c426e58258,Access Control,Train,9/17/2020 13:01
+Kucoin002,0x689c56aef474df92d44a1b70850f808488f9769c,Access Control,Train,08/08/2019 02:30
+LCX001,0x4631018f63d5e31680fb53c11c9e1b11f1503e6f,Access Control,Train,06/07/2019 13:59
+Lendfme001,0x0eee3e3828a45f7601d5f54bf49bb01d1a9df5ea,Flash Loan Attack,Validation,09/06/2019 10:45
+Liquid001,0xdb2cad4f306b47c9b35541988c7656f1bb092e15,Access Control,Train,2/18/2021 13:31
+Liquid002,0x9cc2dce817093ceea82bb67a4cf43131fa354c06,Access Control,Train,6/18/2020 10:32
+Liquid003,0xb478c93509ecba29f7983974c3c00bef3e1c2bd9,Access Control,Train,6/18/2020 10:45
+LooksRareExchange001,0x59728544b08ab483533076417fbbb2fd0b17ce3a,Rug pull,Test,4/21/2022 18:44
+Lympo001,0x526232f70b97938e19394e57bc5ee1d5d929074e,Access Control,Train,3/29/2021 13:10
+Lympo002,0x36d97147cf8e1b75254748cf0a102316fcc61697,Access Control,Train,01/10/2022 10:57
+Lympo003,0xa432c0081307733e801ea7877e725f4e0adfbbff,Access Control,Train,08/04/2021 13:24
+MerkleTreeVentures001,0x494c17b10263ed1f2a3c45ffa3d6a318e1791b2c,Access Control,Train,05/10/2018 15:25
+MochaSetDollar001,0x2f2ca827b3c2c57d554d08698e10c3d8016e9f81,Rug pull,Test,12/31/2020 22:44
+MonoX001,0x59653e37f8c491c3be36e5dd4d503ca32b5ab2f4,Price Manupilation,Validation,10/20/2021 14:31
+Nexus_Mutual_Founder_Wallet001,0x87b2a7559d85f4653f13e6546a14189cd5455d45,Phishing,Train,11/04/2018 13:51
+Nomad_Bridge001,0x88a69b4e698a4b090df6cf5bd7b2d47325ad30a3,Access Control,Validation,01/12/2022 10:06
+Olympus_Hack,0x007fe7c498a2cf30971ad8f2cbc36bd14ac51156,Access Control,Test,10/06/2022 16:16
+Omni Bridge001,0xa6439ca0fcba1d0f80df0be6a17220fed9c9038a,Access Control,Test,10/16/2021 7:41
+Opyn001,0x951d51baefb72319d9fbe941e1615938d89abfe2,Access Control,Train,7/31/2020 8:50
+Pando001,0xbea134b1920311f241416ba3bc6ebac277724d8a,Access Control,Validation,11/05/2022 11:54
+Peak_Defi001,0x07cdb44fa1e7eceb638c12a3451a3dc9ce1400e4,Access Control,Validation,8/19/2021 23:46
+POKeFARM001,0xfa71b63935cf9878e009ba6595da08f6d75c4aa1,Rug pull,Train,11/25/2018 14:40
+Poly_Network001,0x250e76987d838a75310c34bf422ea9f1ac4cc906,Access Control,Train,4/28/2021 5:54
+Profanity_Wallet001,0x0000000002ce79aacd54227d2163ff3791338975,Access Control,Test,3/26/2022 17:46
+QAN_Platform001,0xaaa4940aa878d932d3482bf1de332e1d50c15aaa,Access Control,Test,11/01/2021 13:00
+RBaseFinance001,0x516b5abd608ef7bb1491dd1578ab110d51080907,Rug pull,Validation,12/10/2020 15:57
+RBaseFinance002,0xe849c544cf389bc6846db54f38a6e5070be33474,Rug pull,Validation,12/10/2020 15:02
+Reflation001,0xb81dfab7a08b66e484c5c7ece8a35637733da337,Rug pull,Validation,12/14/2020 20:47
+RibbonFinance001,0x79f1bc5c5ee691206fc55c66402f938dd1e96421,Phishing,Train,05/12/2019 02:33
+Roll001,0x6060b77a5d8309eb36374198e197072205ea2bb3,Access Control,Train,9/19/2019 16:43
+Ronin001,0x1a2a1c938ce3ec39b6d47113c7955baa9dd454f2,Access Control,Train,2/25/2022 2:08
+Saddle_Finance2001,0x4f6a43ad7cba042606decaca730d4ce0a57ac62e,Access Control,Train,1/19/2021 16:06
+Santa DAO001,0x6fb209016b489977ecc78abf3eb5a8613e7ac728,Rug pull,Train,10/22/2020 1:43
+SashimiSwap001,0xe4fe6a45f354e845f954cddee6084603cedb9410,Flash Loan Attack,Validation,9/28/2020 12:37
+Stazie001,0x12e5e3e7a1389fed96e1be50aed32316c027b18b,Access Control,Train,1/26/2018 20:36
+SushiSwap001,0xc2704dec22e552164dee240b20b840ea379b878e,Access Control,Validation,9/16/2021 16:04
+SynLev001,0xaae6ea9b2884bf263edf6e61fcdca2ea8d807008,Rug pull,Validation,11/02/2020 15:07
+SynLev002,0x1d01a536c29ff2f0b33330b330c9821f1bc3833c,Rug pull,Train,12/24/2020 18:16
+Taylor001,0xdbf4033c17b983f2aa5cfb09dfbb8b21337dc8c5,Access Control,Train,3/23/2018 15:59
+Tecra001,0x420725a69e79eeffb000f98ccd78a52369b6c5d4,Access Control,Train,05/03/2021 22:33
+TempleDAO001,0xdcef968d416a41cdac0ed8702fac8128a64241a2,Rug pull,Test,6/13/2022 17:59
+THORChain001,0xc145990e84155416144c532e31f89b840ca8c2ce,Access Control,Train,07/10/2021 01:51
+Umbrella001,0x10bbbebacd34509b1388a528003dbb77c20b22ba,Access Control,Train,3/23/2021 19:35
+UniCat,0xb246bcd5baac8e342941d0f803d528b6668e42cd,Rug pull,Train,9/21/2020 0:09
+Unicrypt001,0x663a5c229c09b049e36dcc11a9b0d4a8eb9db214,Rug pull,Validation,12/16/2020 12:11
+Unidark001,0xafb43414e6344f6310f29e9d7dc95d817ffd89e8,Rug pull,Train,10/01/2020 23:57
+Uniswap001,0xc36442b4a4522e871399cd717abdd847ab11fe88,Phishing,Test,07/11/2022 15:21
+Upbit001,0x5e032243d507c743b061ef021e2ec7fcc6d3ab89,Access Control,Train,10/19/2019 15:35
+Upbit004,0xc4af9d67850ed5523b876b2276656170689162ce,Access Control,Train,8/20/2021 6:54
+Upbit005,0x11cf04ee89c9ef56d9ef6126e914286770b8571f,Access Control,Train,8/20/2021 6:34
+Upbit006,0xd66d9ec7f0d89e0e6698953a7f44158552fbaf8f,Access Control,Train,8/20/2021 6:13
+Upbit007,0xff0f573bdf4c23e41ea3ecd82efa66828706b711,Access Control,Train,8/18/2021 22:54
+Upbit008,0xaf9bdc92c920415cbcb8572a2dcb8aade778312b,Access Control,Train,8/18/2021 20:31
+Upbit009,0xec06a00df7fe291c9f872449385bd593e38d8133,Access Control,Train,8/18/2021 20:45
+Vesperi001,0x0302f55dc69f5c4327c8a6c3805c9e16fc1c3464,Price Manupilation,Train,7/20/2021 1:49
+Vesperi002,0x19d13b4c0574b8666e9579da3c387d5287af410c,Price Manupilation,Train,7/20/2021 2:31
+Vesperi003,0x712808b1e8a17f90df1bc0faa33a6a211c3311a9,Price Manupilation,Train,10/08/2021 23:16
+Vesperi004,0x2f251e9074e3a3575d0105586d53a92254528fc5,Price Manupilation,Train,7/20/2021 2:37
+Vesperi005,0x0879dbee0614cc3516c464522e9b2e10eb2d415a,Price Manupilation,Train,7/20/2021 1:38
+VoltageFinance001,0xf301d525da003e874df574bcdd309a6bf0535bb6,Re-Entrancy,Train,03/01/2022 04:47
+Warp001,0x6046c3ab74e6ce761d218b9117d5c63200f4b406,Flash Loan Attack,Test,12/16/2020 18:21
+Warp002,0xae465fd39b519602ee28f062037f7b9c41fdc8cf,Flash Loan Attack,Test,12/16/2020 15:34
+Wintermute001,0x00000000ae347930bd1e7b0f35588b92280f9e75,Access Control,Validation,9/15/2022 10:00
+Wormhole001,0x3ee18b2214aff97000d974cf647e7c347e8fa585,Access Control,Train,10/15/2021 17:37
+XToken001,0xe3f9cf7d44488715361581dd8b3a15379953eb4c,Flash Loan Attack,Validation,10/02/2020 15:56
+ZBExchange001,0xe019d99f9fe03dc5661ad4bb19f9db88d9fa0a62,Access Control,Test,08/01/2022 19:58
+Zenith001,0x78dfd15369eff7485534fba1fade613acdd141bc,Rug pull,Train,10/02/2020 06:04
+Zenith002,0xe7ccf947a4ca18998048995c5428245f031bd5c3,Rug pull,Train,10/18/2020 0:54
+Zenith003,0xb03501ab31e942c7e1af435bc56f4220fea9a06d,Rug pull,Train,02/03/2018 18:13
+Zenith004,0xd1fc8e7d48974880fcdfc89ca4bc1e115b6fa577,Rug pull,Train,11/14/2020 22:06
+Zenith005,0xb22dfb715a7b454d83b2fb95e4d38aaf5f3c84fa,Rug pull,Train,05/07/2020 18:36
+Zenith006,0xade4ac0b97379532a41a98ef7a0578c13584de2d,Rug pull,Train,11/17/2017 15:20
+fake_file3,,Access Control,Fake,11/05/2022 19:04
+fake_file2,,Access Control,Fake,11/05/2022 11:54
+fake_file,,Access Control,Fake,11/05/2022 11:54

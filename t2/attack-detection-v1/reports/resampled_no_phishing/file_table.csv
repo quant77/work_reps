@@ -1,0 +1,148 @@
+file_name,exp_part,exploit_type,sngl_mlt,tp,fp,tn,fn,catch_any
+V3/0xhabitat001.csv,train,Phishing,multi,1,6,52,0,1
+V3/Agora001.csv,train,Flash Loan Attack,single,0,12,12857,1,0
+V3/Agora002.csv,train,Flash Loan Attack,multi,1,5,13048,1,1
+V3/Akropolis001.csv,train,Flash Loan Attack,multi,0,1,487,17,0
+V3/AnySwap001.csv,train,Access Control,single,1,367,17111,0,1
+V3/AnySwap002.csv,train,Access Control,single,1,211,37698,0,1
+V3/AscendEX001.csv,validation,Access Control,multi,90,29,3447,2,1
+V3/Audius.csv,train,Access Control,single,0,0,4,1,0
+V3/BalancerLabs001.csv,train,Flash Loan Attack,multi,1,3,8152,0,1
+V3/Bancor001.csv,train,Access Control,multi,1,41,537,1,1
+V3/BasketDAO001.csv,train,Access Control,multi,0,0,26,5,0
+V3/BentFinance001.csv,validation,Access Control,multi,0,12,336,3,0
+V3/BiFinance001.csv,train,Access Control,single,1,25,1509,0,1
+V3/Bilaxy001.csv,train,Access Control,multi,294,322,24292,3,1
+V3/Bitmart001.csv,train,Access Control,multi,82,430,24403,1,1
+V3/Brahma_Finance001.csv,validation,Access Control,single,0,1,96,1,0
+V3/Brahma_Finance002.csv,validation,Access Control,single,0,0,34,1,0
+V3/Brahma_Finance003.csv,validation,Access Control,single,0,0,26,1,0
+V3/BrincFinance001.csv,validation,Access Control,single,1,17,210,0,1
+V3/ChainSwap001.csv,train,Access Control,multi,6,0,688,0,1
+V3/ChainSwap002.csv,train,Access Control,multi,7,0,236,0,1
+V3/ChainSwap006.csv,train,Access Control,multi,1,20,288,0,1
+V3/CoinSWOP001.csv,train,Rug pull,multi,0,0,11,12,0
+V3/Coinbene001.csv,train,Access Control,multi,110,3,24886,1,1
+V3/Coinbene002.csv,train,Access Control,multi,0,1,136,20,0
+V3/Coinrail001.csv,train,Access Control,multi,11,719,52912,0,1
+V3/CompounderFinance001.csv,train,Rug pull,single,1,0,25,0,1
+V3/CompounderFinance004.csv,train,Rug pull,single,1,0,13,0,1
+V3/CompounderFinance005.csv,train,Rug pull,single,0,0,2,1,0
+V3/CompounderFinance006.csv,train,Rug pull,single,1,0,19,0,1
+V3/CompounderFinance007.csv,train,Rug pull,single,1,0,20,0,1
+V3/CompounderFinance008.csv,train,Rug pull,single,1,311,14352,0,1
+V3/Cream_Finance001.csv,train,Flash Loan Attack,single,1,5,1101,0,1
+V3/Cream_Finance002.csv,train,Flash Loan Attack,single,1,5,422,0,1
+V3/Cream_Finance003.csv,train,Flash Loan Attack,single,1,2,200,0,1
+V3/Cream_Finance004.csv,train,Flash Loan Attack,single,1,1,437,0,1
+V3/Cream_Finance005.csv,train,Flash Loan Attack,single,1,14,1040,0,1
+V3/Cream_Finance006.csv,train,Flash Loan Attack,single,1,24,4342,0,1
+V3/Cream_Finance007.csv,train,Flash Loan Attack,single,1,117,16568,0,1
+V3/Cream_Finance008.csv,train,Flash Loan Attack,single,1,0,30,0,1
+V3/Cream_Finance009.csv,train,Flash Loan Attack,single,1,33,8680,0,1
+V3/Cream_Finance010.csv,train,Flash Loan Attack,single,1,0,38,0,1
+V3/Cream_Finance011.csv,train,Flash Loan Attack,single,1,5,600,0,1
+V3/Cream_Finance012.csv,train,Flash Loan Attack,single,1,0,34,0,1
+V3/Cream_Finance013.csv,train,Flash Loan Attack,single,1,0,1198,0,1
+V3/Cream_Finance014.csv,train,Flash Loan Attack,single,1,5,1101,0,1
+V3/Cryptopia001.csv,train,Access Control,multi,97,1141,23759,3,1
+V3/Cryptopia002.csv,train,Access Control,multi,5,8,10486,0,1
+V3/Curve_Finance001.csv,validation,Phishing,single,0,0,154,1,0
+V3/Curve_Finance002.csv,validation,Phishing,single,0,0,27,1,0
+V3/Curve_Finance003.csv,validation,Phishing,single,0,6,318,1,0
+V3/Curve_Finance004.csv,validation,Phishing,single,0,2,87,1,0
+V3/Curve_Finance005.csv,validation,Phishing,single,0,3,644,1,0
+V3/DAOMaker2003.csv,validation,Access Control,single,0,0,107,1,0
+V3/DAOMaker2004.csv,validation,Access Control,single,1,0,404,0,1
+V3/DEGO001.csv,train,Access Control,multi,0,2,44,2,0
+V3/DaoMaker2001.csv,validation,Access Control,single,0,0,19,1,0
+V3/DistX001.csv,train,Rug pull,multi,1,0,168,1,1
+V3/DragonEx001.csv,train,Rug pull,multi,22,42,24933,3,1
+V3/EXMO001.csv,train,Access Control,multi,3,9,24988,0,1
+V3/Eterbase001.csv,train,Access Control,multi,54,2975,21864,0,1
+V3/EthereumYiled001.csv,train,Rug pull,multi,0,0,1026,3,0
+V3/EthereumYiled002.csv,train,Rug pull,multi,1,0,1488,1,1
+V3/FakeAVA Token Sale001.csv,train,Phishing,single,0,1,115,1,0
+V3/FakeDfinityTokenSale001.csv,train,Phishing,multi,0,0,25,2,0
+V3/FakeHack137001.csv,train,Phishing,single,0,0,41,1,0
+V3/FakeHeroTokenSale001.csv,train,Phishing,single,0,1,65,1,0
+V3/FakeHeroTokenSale002.csv,train,Phishing,single,0,85,4576,1,0
+V3/FakeHeroTokenSale003.csv,train,Phishing,single,0,0,38,1,0
+V3/FakeHeroTokenSale004.csv,train,Phishing,single,0,0,87,1,0
+V3/FakeHeroTokenSale005.csv,train,Phishing,single,0,0,99,1,0
+V3/FakeHeroTokenSale006.csv,train,Phishing,single,0,0,504,1,0
+V3/FakePhishing2753001.csv,train,Phishing,multi,0,5,2064,11,0
+V3/FakePhishing3187001.csv,train,Phishing,single,0,0,272,1,0
+V3/FakePhishing4287001.csv,train,Phishing,multi,1,0,17,5,1
+V3/FakePhishing697001.csv,train,Phishing,single,0,0,21,1,0
+V3/Focus001.csv,validation,Rug pull,single,0,0,466,1,0
+V3/HarmonyBridge001.csv,train,Access Control,multi,9,56,8499,0,1
+V3/HarmonyBridge002.csv,train,Access Control,single,1,3,1295,0,1
+V3/HarmonyBridge003.csv,train,Access Control,single,1,30,7630,0,1
+V3/HarvestFinance001.csv,validation,Flash Loan Attack,multi,13,39,1861,0,1
+V3/Holy001.csv,validation,Rug pull,multi,1,0,953,1,1
+V3/IndexFinance001.csv,validation,Flash Loan Attack,multi,0,24,9251,1,0
+V3/Jay001.csv,train,Re-Entrancy,multi,1,1,883,0,1
+V3/Kucoin001.csv,train,Access Control,multi,173,63,24664,22,1
+V3/Kucoin002.csv,train,Access Control,multi,60,1268,23510,123,1
+V3/LCX001.csv,train,Access Control,multi,9,33,8345,1,1
+V3/Lendfme001.csv,validation,Flash Loan Attack,multi,31,73,4805,36,1
+V3/Liquid001.csv,train,Access Control,multi,54,125,24821,0,1
+V3/Liquid002.csv,train,Access Control,multi,23,0,3016,30,1
+V3/Liquid003.csv,train,Access Control,single,1,1,249,0,1
+V3/Lympo001.csv,train,Access Control,single,0,0,56,1,0
+V3/Lympo002.csv,train,Access Control,single,0,0,2,1,0
+V3/Lympo003.csv,train,Access Control,multi,0,1,18,3,0
+V3/MerkleTreeVentures001.csv,train,Access Control,multi,0,0,19,2,0
+V3/MonoX001.csv,validation,Price Manupilation,multi,0,7,589,1,0
+V3/Nexus_Mutual_Founder_Wallet001.csv,train,Phishing,single,1,19,221,0,1
+V3/Nomad_Bridge001.csv,validation,Access Control,multi,14,429,15777,1,1
+V3/Opyn001.csv,train,Access Control,multi,1,0,41,3,1
+V3/POKeFARM001.csv,train,Rug pull,multi,0,1,780,104,0
+V3/Pando001.csv,validation,Access Control,multi,5,9,82,6,1
+V3/Peak_Defi001.csv,validation,Access Control,multi,0,3,121,5,0
+V3/Poly_Network001.csv,train,Access Control,multi,10,604,24386,0,1
+V3/RBaseFinance001.csv,validation,Rug pull,multi,0,0,43,2,0
+V3/RBaseFinance002.csv,validation,Rug pull,multi,0,0,3,2,0
+V3/Reflation001.csv,validation,Rug pull,multi,0,0,90,3,0
+V3/RibbonFinance001.csv,train,Phishing,single,0,0,131,1,0
+V3/Roll001.csv,train,Access Control,multi,3,481,19971,0,1
+V3/Ronin001.csv,train,Access Control,multi,2,84,18611,0,1
+V3/Saddle_Finance2001.csv,train,Access Control,multi,0,18,3785,2,0
+V3/Santa DAO001.csv,train,Rug pull,multi,3,0,22,1,1
+V3/SashimiSwap001.csv,validation,Flash Loan Attack,multi,2,83,15128,0,1
+V3/Stazie001.csv,train,Access Control,multi,3,10,1673,0,1
+V3/SushiSwap001.csv,validation,Access Control,single,0,0,1252,1,0
+V3/SynLev001.csv,validation,Rug pull,multi,0,0,43,2,0
+V3/SynLev002.csv,train,Rug pull,multi,0,0,41,3,0
+V3/THORChain001.csv,train,Access Control,multi,1,110,18845,7,1
+V3/Taylor001.csv,train,Access Control,single,0,0,6,1,0
+V3/Tecra001.csv,train,Access Control,multi,1,185,2853,0,1
+V3/Umbrella001.csv,train,Access Control,multi,35,51,654,0,1
+V3/UniCat.csv,train,Rug pull,multi,8,7,2059,0,1
+V3/Unicrypt001.csv,validation,Rug pull,single,1,0,10727,0,1
+V3/Unidark001.csv,train,Rug pull,multi,126,0,5924,5,1
+V3/Upbit001.csv,train,Access Control,single,1,18,24981,0,1
+V3/Upbit004.csv,train,Access Control,single,1,0,78,0,1
+V3/Upbit005.csv,train,Access Control,multi,1,0,74,3,1
+V3/Upbit006.csv,train,Access Control,multi,1,0,44,4,1
+V3/Upbit007.csv,train,Access Control,multi,3,0,251,0,1
+V3/Upbit008.csv,train,Access Control,single,1,0,38,0,1
+V3/Upbit009.csv,train,Access Control,single,1,1,34,0,1
+V3/Vesperi001.csv,train,Price Manupilation,single,1,0,85,0,1
+V3/Vesperi002.csv,train,Price Manupilation,single,1,1,216,0,1
+V3/Vesperi003.csv,train,Price Manupilation,single,1,1,114,0,1
+V3/Vesperi004.csv,train,Price Manupilation,single,1,3,164,0,1
+V3/Vesperi005.csv,train,Price Manupilation,single,1,0,74,0,1
+V3/VoltageFinance001.csv,train,Re-Entrancy,multi,0,0,222,6,0
+V3/Wintermute001.csv,validation,Access Control,multi,107,106,14611,2,1
+V3/Wormhole001.csv,train,Access Control,multi,3,71,20833,0,1
+V3/XToken001.csv,validation,Flash Loan Attack,multi,1,6,4923,0,1
+V3/Zenith001.csv,train,Rug pull,single,0,1,211,1,0
+V3/Zenith002.csv,train,Rug pull,single,1,0,108,0,1
+V3/Zenith003.csv,train,Rug pull,single,0,3,169,1,0
+V3/Zenith004.csv,train,Rug pull,single,0,4,244,1,0
+V3/Zenith005.csv,train,Rug pull,single,0,45,1644,1,0
+V3/Zenith006.csv,train,Rug pull,multi,0,3,234,3,0
+V3/bZx001.csv,validation,Access Control,multi,2,209,24715,0,1
+V3/dxHub001.csv,train,Rug pull,multi,0,0,15,3,0

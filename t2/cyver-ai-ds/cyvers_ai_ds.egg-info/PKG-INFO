@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: cyvers-ai-ds
+Version: 0.0.1
+Summary: CyVers AI data science tools
+Home-page: https://github.com/CyVers-AI/cyver-ai-ds
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+
+# cyvers-ai-ds
+CyVers data science package
+
+
+### Pre-commit hooks
+
+We use [pre-commit](https://pre-commit.com/) to run [black](https://github.com/psf/black) & [isort](https://github.com/PyCQA/isort) on every commit.
+
+So, you should install pre-commit git hooks before contributing.
+Just run: `pre-commit install --install-hooks`.

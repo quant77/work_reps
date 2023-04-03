@@ -1,0 +1,162 @@
+﻿File Names,Attack Link,Exploit Types,Minimum Time,train/test splits,Number of Labeled Transactions,Number of Transactions,Validated,Sum of Stolen Amount
+Bo_Shen001,https://defiyield.app/rekt-database/bo_shen,Access Control,30/11/2016 12:41,Train,2,144,Yes,40139716.76
+Bancor001,https://www.apriorit.com/dev-blog/554-bancor-exchange-hack,Access Control,10/06/2017 14:27,Train,2,580,Yes,3126104.372
+Stazie001,https://coinlive.me/how-did-the-founder-of-nft-game-steal-16-cryptopunks-4516.html,Access Control,26/01/2018 20:36,Train,3,1710,Yes,1999708.895
+Taylor001,https://www.zdnet.com/article/all-of-cryptocurrency-trading-app-taylors-funds-have-been-stolen/,Access Control,23/03/2018 15:59,Train,1,7,Yes,1715527.491
+MerkleTreeVentures001,,Access Control,10/05/2018 15:25,Train,2,21,Yes,84605.93
+Coinrail001,https://www.coindesk.com/markets/2018/06/11/coinrail-exchange-hacked-loses-possibly-40-million-in-cryptos/,Access Control,07/06/2018 5:34,Train,3,25000,Yes,111984.04
+Uniswap001,https://peckshield.medium.com/uniswap-lendf-me-hacks-root-cause-and-loss-analysis-50f3263dcc09,Phishing,11/07/2022 15:21,Test,8,25000,Yes,8606057.834
+Cryptopia001,https://defiyield.app/rekt-database/cryptopia,Access Control,20/10/2018 18:01,Train,100,25000,Yes,10367465.1
+Curve_Finance002,https://defiyield.app/rekt-database/curve.finance,Phishing,16/06/2022 8:39,Train,1,31,Yes,4004.067321
+LooksRareExchange001,https://web3isgoinggreat.com/?id=2022-02-07-4,Rug pull,21/04/2022 18:44,Test,3,25000,Yes,703924.32
+Curve_Finance004,https://defiyield.app/rekt-database/curve.finance,Phishing,15/04/2022 19:29,Train,1,91,Yes,2459.841425
+Agora001,"https://halborn.com/explained-the-starstream-and-agora-hack-april-2022/#:~:text=In%20April%202022%2C%20the%20Starstream,out%20large%20loans%20from%20Agora.",Flash Loan Attack,06/04/2022 4:17,Train,1,25000,Yes,2603401.852
+Cryptopia002,https://defiyield.app/rekt-database/cryptopia,Access Control,15/11/2018 21:31,Train,5,10499,Yes,2556079.206
+Agora002,"https://halborn.com/explained-the-starstream-and-agora-hack-april-2022/#:~:text=In%20April%202022%2C%20the%20Starstream,out%20large%20loans%20from%20Agora.",Flash Loan Attack,01/03/2022 21:58,Train,2,25000,Yes,2970178.289
+VoltageFinance001,https://twitter.com/voltfinance/status/1509400356828049413,Re-Entrancy,01/03/2022 4:47,,6,228,Yes,2471741.749
+Coinbene001,https://cointelegraph.com/news/over-100-million-missing-coinbene-claims-maintenance-a-month-of-questions-point-toward-a-hack,Access Control,13/03/2019 13:04,Train,111,25000,Yes,9251222.895
+Coinbene002,https://cointelegraph.com/news/over-100-million-missing-coinbene-claims-maintenance-a-month-of-questions-point-toward-a-hack,Access Control,25/03/2019 23:59,Train,20,157,Yes,266672.4853
+LCX001,https://cointelegraph.com/news/lcx-loses-6-8m-in-a-hot-wallet-compromise-over-ethereum-blockchain,Access Control,07/06/2019 13:59,Train,10,8388,Yes,8351055.77
+Kucoin002,https://blog.chainalysis.com/reports/kucoin-hack-2020-defi-uniswap/,Access Control,08/08/2019 2:30,Train,183,25000,Yes,134234057.1
+Upbit001,https://www.cylynx.io/blog/tracing-the-trail-of-the-upbit-hack/,Access Control,19/10/2019 15:35,Train,1,25000,Yes,50470673.42
+Eterbase001,https://blog.merklescience.com/hacktrack/hack-track-eterbase-cryptocurrency-exchange,Access Control,19/04/2020 0:29,Train,54,25000,Yes,4081821.477
+Liquid002,https://www.scorechain.com/blog/liquid-hack-what-we-know-a-few-days-after-the-hack,Access Control,18/06/2020 10:32,Train,53,3072,Yes,64057827.49
+Liquid003,https://www.scorechain.com/blog/liquid-hack-what-we-know-a-few-days-after-the-hack,Access Control,18/06/2020 10:45,Train,1,251,Yes,1519869.434
+MonoXfinance002,https://slowmist.medium.com/detailed-analysis-of-the-31-million-monox-protocol-hack-574d8c44a9c8,Price Manupilation,20/10/2021 14:31,Validation,5,1009,Yes,3559962.869
+AnibusDAO001,https://cryptobriefing.com/60m-stolen-from-anubisdao-crypto-fundraise/,Rug pull,20/10/2021 12:21,Test,2,25000,Yes,95814266.65
+Opyn001,https://peckshield.medium.com/opyn-hacks-root-cause-analysis-c65f3fe249db,Access Control,31/07/2020 8:50,Train,14,71,Yes,441372.3128
+DEGO001,https://coinquora.com/multichain-defi-nft-platform-dego-finance-suffers-10m-hack/,Access Control,10/09/2020 18:30,Train,2,73,Yes,2554201.518
+Vesperi003,https://twitter.com/VesperFi/status/1455567032536248324,Price Manupilation,08/10/2021 23:16,Train,1,116,Yes,417533.531
+Kucoin001,https://blog.chainalysis.com/reports/kucoin-hack-2020-defi-uniswap/,Access Control,17/09/2020 13:01,Train,195,25000,Yes,66263908.88
+HarmonyBridge002,https://techcrunch.com/2022/06/24/harmony-blockchain-crypto-hack/,Access Control,13/10/2020 21:36,Train,1,1299,Yes,5528517.789
+HarmonyBridge001,https://techcrunch.com/2022/06/24/harmony-blockchain-crypto-hack/,Access Control,14/10/2020 15:20,Train,9,8706,Yes,71578964.78
+Cream_Finance012,https://defiyield.app/rekt-database/cream_finance,Flash Loan Attack,08/09/2021 22:42,Train,1,35,Yes,1874297.305
+Curve_Finance003,https://defiyield.app/rekt-database/curve.finance,Phishing,01/09/2021 5:20,Train,1,379,Yes,42175.48556
+BiFinance001,,Access Control,07/01/2021 4:08,Train,1,1779,Yes,2298165.655
+Bifrost001,https://halborn.com/explained-the-bifi-hack-july-2022/,Access Control,07/01/2021 5:32,Train,1,1701,Yes,2298165.655
+Saddle_Finance2001,https://defiyield.app/rekt-database/saddle,Access Control,19/01/2021 16:06,Train,2,3970,Yes,221449.1958
+HarmonyBridge003,https://techcrunch.com/2022/06/24/harmony-blockchain-crypto-hack/,Access Control,19/01/2021 20:38,Train,1,7661,Yes,13769070.29
+Liquid001,https://www.scorechain.com/blog/liquid-hack-what-we-know-a-few-days-after-the-hack,Access Control,18/02/2021 13:31,Train,54,25000,Yes,10359394.5
+ChainSwap001,https://halborn.com/explained-the-chainswap-hack-july-2021/,Access Control,18/03/2021 14:45,Train,6,861,Yes,399734.7
+Umbrella001,https://medium.com/uno-re/umbrella-network-hacked-700k-lost-97285b69e8c7,Access Control,23/03/2021 19:35,Train,35,1007,Yes,507327.9924
+Brahma_Finance002,https://defiyield.app/rekt-database/brahma,Access Control,27/03/2021 9:37,Train,1,35,Yes,4313.030567
+Cream_Finance008,https://defiyield.app/rekt-database/cream_finance,Flash Loan Attack,03/08/2021 18:30,Train,1,31,Yes,3828814.946
+Bacon_Protocol001,https://defiyield.app/rekt-database/bacon_protocol,Flash Loan Attack,29/07/2021 18:00,Train,1,353,Yes,7345513.802
+Vesperi004,https://twitter.com/VesperFi/status/1455567032536248324,Price Manupilation,20/07/2021 2:37,Train,1,168,Yes,119493.3238
+Vesperi002,https://twitter.com/VesperFi/status/1455567032536248324,Price Manupilation,20/07/2021 2:31,Train,1,255,Yes,678131.0878
+Vesperi001,https://medium.com/vesperfinance/on-the-vesper-lend-beta-rari-fuse-pool-23-exploit-9043ccd40ac9,Price Manupilation,20/07/2021 1:49,Train,1,94,Yes,877275.1972
+Vesperi005,https://twitter.com/VesperFi/status/1455567032536248324,Price Manupilation,20/07/2021 1:38,Train,1,75,Yes,9847.781915
+Lympo001,"https://medium.com/lympo-io/lympo-how-does-it-work-user-reward-solution-description-59660808ce0f#:~:text=does%20it%20work%3F-,User%20reward%20solution%20description,will%20be%20discussed%20in%20detail.",Access Control,29/03/2021 13:10,Train,1,59,Yes,3428544.016
+Bilaxy001,https://blog.merklescience.com/hacktrack/hack-track-analysis-of-the-bilaxy-exchange-hack,Access Control,28/04/2021 4:49,Train,297,25000,Yes,21149078.82
+Poly_Network001,https://www.coindesk.com/markets/2021/08/10/cross-chain-defi-site-poly-network-hacked-hundreds-of-millions-potentially-lost/,Access Control,28/04/2021 5:54,Train,10,25000,Yes,273054143
+DAOMaker2003,https://www.coinfirm.com/blog/dao-maker-hack/,Access Control,28/04/2021 12:42,Train,1,108,Yes,257354.58
+BadgerDAO002,https://www.coindesk.com/business/2021/12/10/badgerdao-reveals-details-of-how-it-was-hacked-for-120m/,Access Control,07/05/2021 23:25,Train,5,4531,Yes,4464896.301
+Cream_Finance010,https://defiyield.app/rekt-database/cream_finance,Flash Loan Attack,02/06/2021 8:47,Train,1,39,Yes,2915756.228
+Audius,https://blog.audius.co/article/audius-governance-takeover-post-mortem-7-23-22,Access Control,07/05/2021 23:33,Train,1,5,Yes,6345493.33
+XToken001,https://thedefiant.io/xtoken-defi-project-hacked-for-over-25m/,Flash Loan Attack,12/05/2021 13:43,Validation,3,44,Yes,17723332.7
+ChainSwap002,https://halborn.com/explained-the-chainswap-hack-july-2021/,Access Control,12/05/2021 10:49,Train,7,320,Yes,1128810.75
+BadgerDAO001,https://www.coindesk.com/business/2021/12/10/badgerdao-reveals-details-of-how-it-was-hacked-for-120m/,Access Control,27/05/2021 21:39,Train,1,128,Yes,27501500.31
+ChainSwap006,https://halborn.com/explained-the-chainswap-hack-july-2021/,Access Control,02/06/2021 16:40,Train,15,380,Yes,20790.3436
+AnySwap001,https://www.zdnet.com/article/multichain-token-hack-losses-reach-3-million-report/,Access Control,01/07/2021 9:51,Train,1,22141,Yes,1538586.37
+DAOMaker2004,https://www.coinfirm.com/blog/dao-maker-hack/,Access Control,01/07/2021 13:02,Train,1,405,Yes,917334.4649
+THORChain001,https://www.coindesk.com/markets/2021/07/23/blockchain-protocol-thorchain-suffers-8m-hack/,Access Control,10/07/2021 1:51,Train,8,18963,Yes,5390513.144
+FakePhishing3187001,,Phishing,07/04/2021 20:49,Test,1,273,Yes,154748.3938
+BasketDAO001,https://basketdao.medium.com/basketdao-peripheral-exploit-incident-6f404c5c1a9a,Access Control,11/07/2021 21:10,Train,7,374,Yes,691203.0554
+Lympo003,"https://medium.com/lympo-io/lympo-how-does-it-work-user-reward-solution-description-59660808ce0f#:~:text=does%20it%20work%3F-,User%20reward%20solution%20description,will%20be%20discussed%20in%20detail.",Access Control,04/08/2021 13:24,Train,3,22,Yes,19650.77131
+Upbit008,https://www.cylynx.io/blog/tracing-the-trail-of-the-upbit-hack/,Access Control,18/08/2021 20:31,Train,1,39,Yes,12654947.18
+Cream_Finance003,https://defiyield.app/rekt-database/cream_finance,Flash Loan Attack,22/03/2021 11:03,Train,1,203,Yes,7355496.078
+Cream_Finance004,https://defiyield.app/rekt-database/cream_finance,Flash Loan Attack,20/03/2021 7:57,Train,1,439,Yes,5547951.732
+Upbit009,https://www.cylynx.io/blog/tracing-the-trail-of-the-upbit-hack/,Access Control,18/08/2021 20:45,Train,1,36,Yes,321367.5719
+0xhabitat001,https://blog.gnosis.pm/the-0xhabitat-multisig-got-drained-an-analysis-16ab74ddf42,Phishing,17/03/2021 12:11,Validation,5,146,Yes,236950.7186
+Armor001,https://defiyield.app/rekt-database/armor,Phishing,28/02/2021 0:20,Validation,10,25,Yes,882675.7912
+Upbit007,https://www.cylynx.io/blog/tracing-the-trail-of-the-upbit-hack/,Access Control,18/08/2021 22:54,Train,3,254,Yes,2330180.581
+Bt.Finance001,https://btfinance.medium.com/bt-finance-exploit-analysis-report-a0843cb03b28,Flash Loan Attack,08/02/2021 20:13,Validation,3,19,Yes,75154801.57
+Cream_Finance001,https://defiyield.app/rekt-database/cream_finance,Flash Loan Attack,05/02/2021 23:31,Train,1,1107,Yes,8134144.321
+Peak_Defi001,,Access Control,19/08/2021 23:46,Validation,5,159,Yes,63663.76407
+Upbit006,https://www.cylynx.io/blog/tracing-the-trail-of-the-upbit-hack/,Access Control,20/08/2021 6:13,Train,5,49,Yes,1221022.545
+Upbit005,https://www.cylynx.io/blog/tracing-the-trail-of-the-upbit-hack/,Access Control,20/08/2021 6:34,Train,4,78,Yes,406552.2574
+Upbit004,https://www.cylynx.io/blog/tracing-the-trail-of-the-upbit-hack/,Access Control,20/08/2021 6:54,Train,1,79,Yes,2801669.674
+MochaSetDollar001,https://etherscan.io/address/0x6ca33486eed915816560630b883a047c4e2b92df,Rug pull,31/12/2020 22:44,Test,1,8,Yes,6951.83473
+Focus001,https://archive.ph/phMAh,Rug pull,28/12/2020 22:05,Test,1,470,Yes,10297.48658
+SynLev002,https://defiyield.app/rekt-database/synlev,Rug pull,24/12/2020 18:16,Train,3,51,Yes,134122.3887
+Holy001,https://defiyield.app/rekt-database/holy,Rug pull,17/12/2020 20:38,Validation,4,1686,Yes,39565885.07
+Warp001,https://slowmist.medium.com/analysis-of-warp-finance-hacked-incident-cb12a1af74cc,Flash Loan Attack,16/12/2020 18:21,Train,1,29,Yes,3861280.841
+Warp002,https://slowmist.medium.com/analysis-of-warp-finance-hacked-incident-cb12a1af74cc,Flash Loan Attack,16/12/2020 15:34,Train,1,50,Yes,3921124.161
+Unicrypt001,,Rug pull,16/12/2020 12:11,Validation,1,17242,Yes,4360.45
+Reflation001,https://archive.ph/N2HfF,Rug pull,14/12/2020 20:47,Validation,3,93,Yes,125316.029
+RBaseFinance001,https://defiyield.app/rekt-database/rbase_finance,Rug pull,10/12/2020 15:57,Validation,2,51,Yes,232945.9753
+RBaseFinance002,https://defiyield.app/rekt-database/rbase_finance,Rug pull,10/12/2020 15:02,Validation,2,5,Yes,87442.71508
+EthereumYiled002,https://defiyield.app/rekt-database/ethereum_yield,Rug pull,08/12/2020 17:31,Train,2,1490,Yes,651652.4617
+IndexFinance001,https://decrypt.co/83681/defi-protocol-indexed-finance-hacked-for-16-million-team-finds-hacker,Flash Loan Attack,06/12/2020 11:57,Validation,81,13805,Yes,192616402.6
+dxHub001,https://defiyield.app/rekt-database/dxhub,Rug pull,06/12/2020 4:28,Train,3,18,Yes,5030.080905
+CoinSWOP001,https://twitter.com/CaptainJackAPE/status/1333759436792315905,Rug pull,03/12/2020 21:27,Validation,12,23,Yes,1950.694433
+CompounderFinance005,https://www.coindesk.com/business/2021/10/03/66m-in-tokens-added-to-recently-hacked-still-vulnerable-compound-contract/,Rug pull,01/12/2020 7:36,Train,1,3,Yes,606884.89
+CompounderFinance001,https://www.coindesk.com/business/2021/10/03/66m-in-tokens-added-to-recently-hacked-still-vulnerable-compound-contract/,Rug pull,23/11/2020 6:05,Train,1,58,Yes,2145910.267
+CompounderFinance007,https://www.coindesk.com/business/2021/10/03/66m-in-tokens-added-to-recently-hacked-still-vulnerable-compound-contract/,Rug pull,23/11/2020 6:05,Train,1,43,Yes,2084758.424
+EthereumYiled001,https://defiyield.app/rekt-database/ethereum_yield,Rug pull,22/11/2020 16:52,Train,3,1029,Yes,1109422.827
+CompounderFinance004,https://www.coindesk.com/business/2021/10/03/66m-in-tokens-added-to-recently-hacked-still-vulnerable-compound-contract/,Rug pull,21/11/2020 22:40,Train,1,28,Yes,2239846.554
+Zenith004,https://defiyield.app/rekt-database/zenit,Rug pull,14/11/2020 22:06,Train,1,269,Yes,5184.670452
+CompounderFinance006,https://www.coindesk.com/business/2021/10/03/66m-in-tokens-added-to-recently-hacked-still-vulnerable-compound-contract/,Rug pull,14/11/2020 2:37,Train,1,36,Yes,447030.2228
+Akropolis001,https://www.zdnet.com/article/hacker-steals-2-million-from-cryptocurrency-service-akropolis/,Flash Loan Attack,12/11/2020 11:47,Train,1,110,Yes,2043628.547
+Cream_Finance005,https://defiyield.app/rekt-database/cream_finance,Flash Loan Attack,04/11/2020 12:24,Train,1,1055,Yes,5378839.741
+SynLev001,https://defiyield.app/rekt-database/synlev,Rug pull,02/11/2020 15:07,Train,2,45,Yes,261007.7514
+Curve_Finance005,https://defiyield.app/rekt-database/curve.finance,Phishing,24/10/2020 18:07,Train,1,674,Yes,400455.5402
+Santa DAO001,https://iconow.net/santadao-hoho-defi-pulls-exit-scam-with-200k/,Rug pull,22/10/2020 1:43,Train,4,26,Yes,210645.8996
+HarvestFinance001,https://www.coindesk.com/tech/2020/10/26/harvest-finance-24m-attack-triggers-570m-bank-run-in-latest-defi-exploit/,Flash Loan Attack,20/10/2020 15:04,Validation,39,1939,Yes,2178795054
+Cream_Finance002,https://defiyield.app/rekt-database/cream_finance,Flash Loan Attack,19/10/2020 16:47,Train,1,428,Yes,7403996.592
+Zenith002,https://defiyield.app/rekt-database/zenit,Rug pull,18/10/2020 0:54,Train,1,112,Yes,2070.212106
+Brahma_Finance001,https://defiyield.app/rekt-database/brahma,Access Control,11/09/2021 17:58,Train,1,107,Yes,79937.28937
+SushiSwap001,https://www.pymnts.com/news/security-and-risk/2021/sushiswap-crypto-platform-victimized-by-3m-hack/,Access Control,16/09/2021 16:04,Validation,1,1253,Yes,3109790.036
+Zenith001,https://defiyield.app/rekt-database/zenit,Rug pull,02/10/2020 6:04,Train,1,234,Yes,1552.659079
+Unidark001,https://defiyield.app/rekt-database/unidark,Rug pull,01/10/2020 23:57,Train,131,8142,Yes,57282.71903
+SashimiSwap001,https://defiyield.app/rekt-database/sashimi,Flash Loan Attack,28/09/2020 12:37,Validation,6,23016,Yes,307279.875
+UniCat,https://zengo.com/unicats-go-phishing/,Rug pull,21/09/2020 0:09,Train,8,2786,Yes,881992.5205
+Tomatos001,https://web.archive.org/web/20200923085004/https://tomatos.finance/,Rug pull,20/09/2020 8:16,Train,11,35,Yes,19628.88874
+bZx001,https://www.coindesk.com/business/2021/11/05/defi-lender-bzx-suffers-hack-for-reported-55m/,Access Control,22/09/2021 0:34,Validation,2,25000,Yes,12214145.54
+Cream_Finance006,https://defiyield.app/rekt-database/cream_finance,Flash Loan Attack,17/09/2020 4:39,Train,1,4367,Yes,3904998.744
+Wormhole001,https://blog.chainalysis.com/reports/wormhole-hack-february-2022/,Access Control,15/10/2021 17:37,Train,3,25000,Yes,252358725.7
+Cream_Finance011,https://defiyield.app/rekt-database/cream_finance,Flash Loan Attack,01/09/2020 17:13,Train,1,606,Yes,2262248.67
+DistX001,https://cryptoslate.com/another-rug-pull-takes-place-taking-a-1-5m-market-cap-ethereum-coin-to-15000/,Rug pull,28/08/2020 23:58,Train,2,170,Yes,278676.3291
+Cream_Finance007,https://defiyield.app/rekt-database/cream_finance,Flash Loan Attack,02/08/2020 16:22,Train,1,16742,Yes,4331834.092
+Cream_Finance009,https://defiyield.app/rekt-database/cream_finance,Flash Loan Attack,02/08/2020 16:21,Train,1,8796,Yes,3786607.885
+Omni Bridge001,https://cryptoslate.com/ethereum-pow-loses-200-weth-to-omni-bridge-vulnerability-exploit/,Access Control,16/10/2021 7:41,Validation,3,3034,Yes,496700.4019
+CompounderFinance008,https://www.coindesk.com/business/2021/10/03/66m-in-tokens-added-to-recently-hacked-still-vulnerable-compound-contract/,Rug pull,30/07/2020 6:54,Train,1,14809,Yes,1546723.632
+Balancer Labs001,https://peckshield.medium.com/balancer-hacks-root-cause-and-loss-analysis-4916f7f0fff5,Flash Loan Attack,28/06/2020 18:03,Test,4,183,Yes,443640.0631
+QAN_Platform001,https://defiyield.app/rekt-database/qan,Access Control,01/11/2021 13:00,Validation,23,150,Yes,10260514.84
+BentFinance001,https://halborn.com/explained-the-bent-finance-hack-december-2021/,Access Control,19/11/2021 10:10,Validation,4,601,Yes,513027.1432
+Zenith005,https://defiyield.app/rekt-database/zenit,Rug pull,07/05/2020 18:36,Train,1,1832,Yes,1555.401136
+Lendfme001,https://www.zdnet.com/article/hackers-steal-25-million-worth-of-cryptocurrency-from-uniswap-and-lendf-me/,Flash Loan Attack,19/04/2020 0:58,Test,25,117,Yes,23039764.13
+Bitmart001,https://blog.merklescience.com/hacktrack/hack-track-analysis-on-bitmart-hack,Access Control,21/11/2021 19:18,Train,83,25000,Yes,113623986.4
+Tomatos002,https://web.archive.org/web/20200923085004/https://tomatos.finance/,Rug pull,21/10/2019 15:29,Train,2,2285,Yes,51682.23936
+BrincFinance001,https://medium.com/@brinc.fi/brinc-fi-exploit-post-mortem-76ca6b355211,Access Control,30/11/2021 4:19,Validation,1,269,Yes,930236.03
+Curve_Finance001,https://defiyield.app/rekt-database/curve.finance,Phishing,10/10/2019 22:08,Train,1,165,Yes,44944.93084
+FakePhishing4287001,,Phishing,20/09/2019 20:02,Validation,6,23,Yes,740692.9355
+BrincFinance002,https://medium.com/@brinc.fi/brinc-fi-exploit-post-mortem-76ca6b355211,Access Control,30/11/2021 4:53,Validation,1,487,Yes,177286.98
+AscendEX001,https://medium.com/hapi-labs/ascendex-hack-analysis-d0f1b0544763,Access Control,01/12/2021 0:18,Validation,92,3568,Yes,58936538.96
+FakeDfinityTokenSale001,,Phishing,16/05/2019 16:29,Validation,2,27,Yes,47371.22123
+RibbonFinance001,https://coinculture.com/au/tech/ribbon-finance-community-accuse-vc-of-airdrop-exploit/,Phishing,12/05/2019 2:33,Validation,1,149,Yes,352492.1675
+Lympo002,https://defiyield.app/rekt-database/lympo,Access Control,10/01/2022 10:57,Train,1,3,Yes,144201.0887
+Ronin001,https://medium.com/uno-re/biggest-crypto-hack-of-all-time-a-breakdown-of-the-ronin-network-hack-ef8d9e25ba6b,Access Control,25/02/2022 2:08,Validation,3,25000,Yes,1066364243
+FakePhishing2753001,,Phishing,02/01/2019 19:20,Train,11,2080,Yes,190877.2269
+POKeFARM001,https://archive.ph/H31gM,Rug pull,25/11/2018 14:40,Train,104,1244,Yes,219918.7112
+CashioApp001,https://ambcrypto.com/decoding-the-if-but-and-so-of-cashio-hack/,Access Control,10/03/2022 2:59,Validation,1,25000,Yes,37017189.99
+Nexus_Mutual_Founder_Wallet001,,Phishing,04/11/2018 13:51,Train,1,244,Yes,8310480.95
+Nomad001,https://www.coindesk.com/tech/2022/08/02/nomad-bridge-drained-of-nearly-200-million-in-exploit,Access Control,06/07/2022 0:41,Test,11,29,Yes,19851701.3
+Brahma_Finance003,https://defiyield.app/rekt-database/brahma,Access Control,12/07/2022 11:50,Train,1,28,Yes,5382.311812
+DragonEx001,"https://medium.com/sentinel-protocol/dragonex-hack-tracking-stolen-etheruem-tokens-to-exchanges-using-catv-537b8f042af2#:~:text=Save-,DragonEx%20Hack%3A%20Tracking%20stolen%20Ethereum%20TOKENS%20to%20Exchanges%20using%20CATV,transferred%20out%20of%20their%20wallets.",Rug pull,05/06/2018 9:02,Train,25,25000,Yes,1084648.56
+Nomad003,https://www.coindesk.com/tech/2022/08/02/nomad-bridge-drained-of-nearly-200-million-in-exploit,Access Control,16/07/2022 16:14,Test,5,29,Yes,4174254.486
+ZBExchange001,https://web.archive.org/web/20220803161533/https://twitter.com/CertiKAlert/status/1554862129953607680,Access Control,01/08/2022 19:58,Test,11,24,Yes,2701868.32
+Zenith003,https://defiyield.app/rekt-database/zenit,Rug pull,03/02/2018 18:13,Train,1,174,Yes,1138.616658
+Wintermute001,https://www.certik.com/resources/blog/uGiY0j3hwOzQOMcDPGoz9-wintermute-hack,Access Control,15/09/2022 10:00,Test,109,19225,Yes,162773543.6
+FakePhishing697001,,Phishing,31/12/2017 23:13,Train,1,22,Yes,5058.257668
+Zenith006,https://defiyield.app/rekt-database/zenit,Rug pull,17/11/2017 15:20,Train,3,240,Yes,2513.572321
+FakeHeroTokenSale001,,Phishing,18/08/2017 2:26,Train,1,67,Yes,11988.69328
+FakeHeroTokenSale002,,Phishing,15/08/2017 16:56,Train,1,5023,Yes,11988.69328
+FakeHeroTokenSale004,,Phishing,27/07/2017 13:12,Train,1,88,Yes,31897.28041
+FakeHeroTokenSale003,,Phishing,16/06/2017 16:48,Train,1,39,Yes,31897.28041
+Olympus_Hack,https://decrypt.co/112627/hacker-300k-olympus-dao,Access Control,06/10/2022 16:16,Test,1,86,Yes,304906.4768
+FakeHeroTokenSale006,,Phishing,01/06/2017 13:29,Train,1,505,Yes,4391.694852
+FakeAVA Token Sale001,,Phishing,31/05/2017 17:22,Train,1,118,Yes,2389.644805
+FakeHeroTokenSale005,,Phishing,29/05/2017 21:59,Train,1,100,Yes,15948.64021
+Pando001,https://defiyield.app/rekt-database/pando,Access Control,05/11/2022 11:54,Test,11,102,Yes,17672913.19
+FakeHack137001,,Phishing,03/08/2016 10:46,Train,1,42,Yes,23922.81964
