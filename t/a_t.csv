@@ -1,0 +1,154 @@
+﻿Attack Name,Exploit Type
+0xhabitat001,Phishing
+AnibusDAO001,Phishing
+AnySwap001,Access control
+BadgerDAO001,Exploit
+BadgerDAO002,Exploit
+Bitmart001,Exploit
+BrincFinance001,Exploit
+BrincFinance002,Exploit
+bZx001,Access control
+ChainSwap001,Exploit
+ChainSwap002,Exploit
+ChainSwap003,Exploit
+ChainSwap004,Exploit
+ChainSwap005,Exploit
+ChainSwap006,Exploit
+CoverProtocol001,Exploit
+DAOMaker2003,Exploit
+DAOMaker2004,Exploit
+HarvestFinance001,Flash Loan Attack
+IndexFinance001,Price Manipulation
+InverseFinance001,Price Manipulation
+Poly_Network001,Exploit
+Ronin001,Exploit
+SushiSwap001,Exploit
+Wormhole001,Exploit
+Akropolis001,Flash Loan Attack
+BentFinance001,Exploit
+Bilaxy001,Access control
+Coinbene001,Exploit
+Coinbene002,Exploit
+Eterbase001,Exploit
+FakeAVA Token Sale001,Exit Scam
+FakeDfinityTokenSale001,Exit Scam
+FakeHack137001,Exit Scam
+FakeHeroTokenSale001,Phishing
+FakeHeroTokenSale002,Phishing
+FakeHeroTokenSale003,Phishing
+FakeHeroTokenSale004,Phishing
+FakeHeroTokenSale005,Phishing
+FakeHeroTokenSale006,Phishing
+FakePhishing2753001,Phishing
+FakePhishing3187001,Phishing
+FakePhishing4287001,Phishing
+FakePhishing697001,Phishing
+HarmonyBridge001,Access control
+HarmonyBridge002,Access control
+HarmonyBridge003,Access control
+Kucoin001,Exploit
+Kucoin002,Exploit
+LCX001,Exploit
+Liquid001,Private Key
+Liquid002,Private Key
+Liquid003,Private Key
+THORChain001,Exploit
+UniCat,Exit Scam
+Upbit001,Private Key
+Upbit7,Private Key
+BasketDAO001,Exploit
+CashioApp001,Bank Run
+ChainPort001,Exploit
+Coinrail001,Access control
+Cryptopia001,Exploit
+DragonEx001,Exit Scam
+LooksRareExchange001,Rugpull
+Nomad001,Exploit
+Nomad003,Exploit
+Upbit006,Private Key
+Upbit008,Private Key
+Upbit009,Private Key
+Vesperi001,Exploit
+Warp001,Flash Loan Attack
+XToken001,Flash Loan Attack
+AscendEX001,Access control
+Bancor001,Exploit
+Bifrost001,Exploit
+PopsicleFinance001,Exploit
+RBaseFinance001,Exit Scam
+ReflectFinance001,Exit Scam
+SaddleFinance001,Exploit
+SaddleFinance002,Exploit
+SaturnbeamFiRug001,Exit Scam
+SaturnbeamFiRug002,Exit Scam
+SaturnbeamFiRug003,Exit Scam
+Upbit004,Private Key
+Upbit005,Private Key
+VeeFinance001,Exploit
+Agora001,Exploit
+Agora002,Exploit
+CreamFinance004,Exploit
+CreamFinance005,Exploit
+CreamFinance006,Exploit
+CreamFinance007,Exploit
+CreamFinance008,Exploit
+CreamFinance009,Exploit
+CreamFinance010,Exploit
+CreamFinance011,Exploit
+EasyFi001,Exploit
+EthereumYiled001,Abandoned
+EthereumYiled002,Abandoned
+Holy001,Exit Scam
+MonoXFinance001,Exploit
+MonoXfinance002,Exploit
+PumpFarm001,Exit Scam
+Unidark001,Exit Scam
+Uniswap001,Phishing
+Zenith001,Exit Scam
+Zenith002,Exit Scam
+Zenith003,Exit Scam
+Zenith004,Exit Scam
+Zenith005,Exit Scam
+Zenith006,Exit Scam
+Armor001,Exploit
+CompounderFinance001,Exit Scam
+CompounderFinance004,Exit Scam
+CompounderFinance005,Exit Scam
+CompounderFinance006,Exit Scam
+DAOMaker2002,Exploit
+DEGO001,Access control
+dxHub001,Exit Scam
+ELLA001,Exit Scam
+MerkleTreeVentures001,Phishing
+MochaSetDollar001,Exit Scam
+Opyn001,Exploit
+AlphaFinance002,Exploit
+Audius,Exploit
+Bacon Protocol001,Flash Loan Attack
+Balancer Labs001,Flash Loan Attack
+BT.Finance001,Flash Loan Attack
+CoinSWOP001,Exit Scam
+Cryptopia002,Exploit
+Curve DNS001,Phishing
+Curve DNS002,Phishing
+Curve DNS003,Phishing
+Curve DNS004,Phishing
+Curve DNS005,Phishing
+DistX001,Exit Scam
+Focus001,Exit Scam
+HypeBetFinance001,Exit Scam
+Omni Bridge001,Exploit
+POKeFARM001,Exit Scam
+Reflation001,Exit Scam
+Santa DAO001,Exit Scam
+SashimiSwap001,Exploit
+SynLev001,Exit Scam
+SynLev002,Exit Scam
+Tomatos001,Exit Scam
+Tomatos002,Exit Scam
+Tomatos004,Exit Scam
+Unicrypt001,Exploit
+Vadia Finance001,Exit Scam
+VoltageFinance001,Exploit
+Wintermute001,Access control
+ZBExchange001,Exploit

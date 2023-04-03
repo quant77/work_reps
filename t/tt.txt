@@ -1,0 +1,33 @@
+@AntonCyVers , Help @hakancyvers with analysis of the tokens in our data set.
+
+
+load the data frame
+ : find 20 most used tokens(by simple counts)
+ : plot these 20 most used and their counts all case , then plot normal case and separately plot fradulent  
+ 
+ 
+rename file --> analysis of top20 tokens
+
+plotly and bokeh
+
+
+new features:
+token1 count , token1 value , ....., token20 count, token20 value
+
+def efficient_func(df, list_of_tokens):
+    
+	
+	
+number_of_events = how many rows merged 	
+
+2000 transaction per second
+
+test on 5000 transactions
+plot roc
+
+
+try:
+new data.
+simple outlier detection on data
+add pca --> current algo
+select variables based on visual separability, apply algos
